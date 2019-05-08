@@ -1,0 +1,39 @@
+-----Adding members to Club Main:-----
+Member:              Mary Ng 0
+Member:              Peter Ng Jas 1
+Member:              Alice Wang 2
+Member:              John Wang 3
+Member:              Jonas Tan 4
+-----Showing Member:-----
+Member:              Mary Ng 0
+Member:              Peter Ng Jas 1
+Member:              John Wang 3
+Member:              Jonas Tan 4
+-----------------------------------------
+-----Facility application starts here:-----
+-----Retrieving Details of selected facility:-----
+Facility:            Tennis Court
+-----Removing Skating Rink due to budget constraints:-----
+-----Showing all facilities of the club-----
+Member:              Mary Ng 0
+Member:              Peter Ng Jas 1
+Member:              John Wang 3
+Member:              Jonas Tan 4
+Facility:            Tennis Court
+Facility:            Bowling Centre
+Facility:            Movie Theatre: Watch the drama in action!
+Facility:            Badminton Court: To chill with the shuttlecock!
+-----Booking Register application starts here:-----
+		Booking Completed
+Member: Mary Ng
+Facility: Badminton Court: To chill with the shuttlecock!
+Start Date: 2019-05-09T18:30:40.426
+End Date: 2019-05-18T18:30:40.427
+
+
+Member: Peter Ng Jas
+Facility: Badminton Court: To chill with the shuttlecock!
+Start Date: 2019-05-09T18:30:40.428
+End Date: 2019-05-28T18:30:40.428
+
+
