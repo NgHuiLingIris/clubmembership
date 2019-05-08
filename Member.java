@@ -22,8 +22,9 @@ public class Member extends Person{
 		this.membershipNumber = membershipNumber;
 	}
 	public void show() {
+		String format = "%-20s %5s\n";
 		String s = super.toString() + " " + membershipNumber;
-		System.out.println(s);
+		System.out.format(format,"Member: ",s);
 		}
 
 }

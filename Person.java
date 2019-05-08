@@ -51,7 +51,8 @@ public class Person {
 	
 	//method starts here
 	public void show() {
-		System.out.println(toString());
+		String format = "%-20s %5s\n";
+		System.out.format(format,"Person: ",toString());
 	}
 	public String toString() {
 		String s = null;

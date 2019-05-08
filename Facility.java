@@ -30,7 +30,8 @@ public class Facility {
 	}
 	//method starts here
 		public void show() {
-			System.out.println(toString());
+			String format = "%-20s %5s\n";
+			System.out.format(format,"Facility: ",toString());
 		}
 		
 		public String toString() {
